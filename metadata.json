@@ -1,0 +1,6 @@
+{
+  "name": "MINECYCLE",
+  "description": "AI-Powered Mining Waste Recovery Platform for mineral tailings registry, circular economy tracking, and critical raw materials recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
